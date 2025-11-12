@@ -74,8 +74,8 @@ nav a:hover:after {
 }  
 
 .top-bg-image {
-    width: 80%;
-    height: 450px
+    width: 100%;
+    height: 100vh;
     object-fit: cover;
     margin: 0 auto;
     border-radius: 60% 30% 70% 40% / 40% 60% 30% 70%;
@@ -374,4 +374,5 @@ h2 {
     }
 
 }
+
 

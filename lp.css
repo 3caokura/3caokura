@@ -73,7 +73,7 @@ nav a:hover:after {
     align-items: center;
 }  
 
-.top-bg video {
+.top-bg img {
     width: 80%;
     height: 450px
     object-fit: cover;
@@ -372,4 +372,5 @@ h2 {
     .menu img {
         height: auto;
     }
+
 }
